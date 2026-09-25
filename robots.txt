@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.lplbyrt.cn/sitemap.xml
